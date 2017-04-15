@@ -21,7 +21,7 @@ import com.src.pageobject.SignOn;
 public class HomePage {
 	
 	String baseURL="http://newtours.demoaut.com/";
-	String browserName="firefox";
+	String browserName="chrome";
 	@Test
 	public void loginCheck(){
 		String user="remyaabi@gmail.com";
